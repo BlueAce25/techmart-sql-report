@@ -2,7 +2,7 @@ TechMart SQL Data Analysis
 
 This project analyzes four interconnected retail datasets for TechMart to evaluate employee performance, product demand, and customer purchasing behavior. I used SQLite, SQL, Python, and Pandas to clean inconsistent data, join multiple tables, calculate performance metrics, and rank results using CTEs and window functions.
 
-View the complete data analysis report
+[View the complete data analysis report](TechMart_Data_Analysis_Report.pdf)
 
 Key Findings
 
@@ -38,7 +38,7 @@ Translating analytical findings into business recommendations
 
 Project Files
 
-TechMart_Data_Analysis_Report.pdf — Complete findings and recommendations
+[TechMart Data Analysis Report.pdf](TechMart_Data_Analysis_Report.pdf) — Complete findings and recommendations
 
 sql/ — Data-cleaning and analytical SQL queries
 
